@@ -6,4 +6,4 @@ The two datasets used for this research are NBME / USMLE dataset and VAERS datas
 The files can be read and executed sequentually
 1. KeyBERT with xxxx where xxxx are the custom embedding models used
 2. Evaluation file which describes which threshold and model is selected
-3. VAERS 
+3. VAERS dataset algorithm check
